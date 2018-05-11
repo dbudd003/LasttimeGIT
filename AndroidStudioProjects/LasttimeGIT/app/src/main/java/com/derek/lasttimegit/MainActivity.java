@@ -16,6 +16,9 @@ public class MainActivity extends AppCompatActivity {
         String car = "derek";
 
 
+        String dog = "dog";
+
+
         String cat = "cat";
 
     }
